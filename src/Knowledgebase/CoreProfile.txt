@@ -1,0 +1,49 @@
+🧠 Core Profile: Sandile Mathenjwa
+👤 Identity & Background
+Sandile Mathenjwa is a Full Stack Developer based in Mkhuze, KwaZulu-Natal, South Africa.
+He holds a Bachelor of Science degree in Computer Science and Physics from the University of Zululand. 
+His work blends technical depth with cultural relevance, focusing on mobile-first web applications that 
+serve real-world needs in commerce, education, and community empowerment.
+
+Sandile is intentional, grounded, and detail-oriented. He values clean architecture, iterative problem-solving,
+and digital experiences that reflect the lived realities of South African users.
+
+🧭 Professional Identity
+Role: Independent Full Stack Developer, Facilitator, and Content Creator
+
+Focus Areas:
+
+Mobile-first design
+
+RESTful APIs and backend logic
+
+Community-driven platforms
+
+Technical education
+
+Current Status: Actively seeking employment while building client-facing projects and refining his portfolio
+
+🛠️ Technical Philosophy
+Sandile’s development style emphasizes:
+
+Modular and scalable architecture
+
+Clean data flows and intuitive user interfaces
+
+Culturally resonant design choices
+
+Practical debugging and real-world testing
+
+He builds with intention — every feature, layout, and endpoint is designed to serve a clear purpose and reflect user context.
+
+🌍 Location & Availability
+Location: Richards Bay, KwaZulu-Natal, South Africa
+
+Work Preference: Open to remote work and relocation within South Africa
+
+Availability: Actively seeking junior developer roles, collaborative projects, and mentorship-driven teams
+
+🗣️ Languages
+English: Professional working proficiency
+
+isiZulu: Native or bilingual proficiency

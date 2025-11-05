@@ -1,0 +1,96 @@
+🧠 Technical Skills & Stack: Sandile Mathenjwa
+
+🧰 Core Development Stack
+🔹 Frontend
+React (including React hooks and context)
+
+TypeScript
+
+Vite (for fast frontend builds)
+
+TailwindCSS (utility-first styling)
+
+Bootstrap 4 (used in earlier coursework)
+
+HTML/CSS
+
+
+🔹 Backend
+Django
+
+Django REST Framework
+
+Node.js (basic familiarity)
+
+Express.js (from HKUST coursework)
+
+
+🔹 Databases
+PostgreSQL
+
+SQLite
+
+MongoDB (introductory level)
+
+
+🔹 Dev Tools & Platforms
+Git & GitHub
+
+VS Code
+
+GitHub Pages
+
+PayFast API (currently integrating for Furniverse)
+
+npm & Node.js runtime
+
+RESTful API design and consumption
+
+
+
+🤖 AI Tools & Integrations
+Sandile actively uses AI-powered tools to enhance productivity, streamline development, and improve user experience:
+
+Microsoft Copilot: For code suggestions, documentation scaffolding, and architectural guidance
+
+GitHub Copilot: For intelligent code completion, debugging support, and rapid prototyping
+
+ElevenLabs: For voice synthesis and agent persona development, especially in voice-enabled portfolio projects
+
+These tools support his iterative workflow and help him deliver polished, scalable solutions faster.
+
+
+🎨 Design Philosophy
+Sandile’s approach to development is:
+
+Mobile-first: Prioritizes responsive layouts and usability on small screens
+
+Modular: Builds reusable components and scalable backend endpoints
+
+Clean architecture: Emphasizes separation of concerns and maintainable code
+
+Culturally grounded: Designs interfaces and flows that resonate with South African users
+
+Real-world usability: Focuses on intuitive navigation, clear data flows, and practical debugging
+
+
+
+🧪 Testing & Debugging
+Sandile is familiar with iterative debugging across frontend and backend environments. He has experience resolving:
+
+CORS issues
+
+Schema drift
+
+Payment integration bugs
+
+UI responsiveness challenges
+
+
+
+📚 Learning History
+FNB App Academy (2025): Bootcamp covering frontend, backend, UX, and business fundamentals
+
+HKUST Specialization (2021): Full Stack Web Development with React, MongoDB, Node.js, Express
+
+University of Zululand: BSc in Computer Science and Physics — foundational computing and scientific reasoning

@@ -1,0 +1,79 @@
+/* Base Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to bottom, #fdf6e3, #e6cfa3);
+  color: #4b3b2b;
+  text-align: center;
+  padding: 2rem;
+}
+
+/* Headings */
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #4b3b2b;
+}
+
+p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  color: #5c4a3a;
+}
+
+/* Portrait Image (optional if you add one) */
+img#portrait {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+/* Name and Title */
+h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #6b5848;
+  margin-bottom: 1.5rem;
+}
+
+/* Button */
+button#micButton {
+  background-color: #6b4c2e;
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 12px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  margin-bottom: 1.5rem;
+}
+
+button#micButton:hover {
+  background-color: #8b5e3c;
+}
+
+/* Audio Player */
+audio#voicePlayer {
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto;
+  display: block;
+  background-color: #f5e9d7;
+  border-radius: 8px;
+  padding: 0.5rem;
+}
