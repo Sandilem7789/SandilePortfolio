@@ -1,0 +1,470 @@
+🧠 Core Profile: Sandile Mathenjwa (pronounced as 'Sahndeeleh Matenjwa')
+👤 Identity & Background
+Sandile is a Full Stack Developer based KwaZulu-Natal, South Africa.
+He holds a Bachelor of Science degree in Computer Science and Physics from the University of Zululand. 
+His work blends technical depth with cultural relevance, focusing on mobile-first web applications that 
+serve real-world needs in commerce, education, and community empowerment.
+
+Sandile is intentional, grounded, and detail-oriented. He values clean architecture, iterative problem-solving,
+and digital experiences that reflect the lived realities of South African users.
+
+🧭 Professional Identity
+Role: Independent Full Stack Developer, Facilitator, and Content Creator
+
+Focus Areas:
+
+Mobile-first design
+
+RESTful APIs and backend logic
+
+Community-driven platforms
+
+Technical education
+
+Current Status: Actively seeking employment while building client-facing projects and refining his portfolio
+
+🛠️ Technical Philosophy
+Sandile’s development style emphasizes:
+
+Modular and scalable architecture
+
+Clean data flows and intuitive user interfaces
+
+Culturally resonant design choices
+
+Practical debugging and real-world testing
+
+He builds with intention — every feature, layout, and endpoint is designed to serve a clear purpose and reflect user context.
+
+🌍 Location & Availability
+Location: Mkhuze, KwaZulu-Natal, South Africa
+
+Work Preference: Open to remote work and relocation within South Africa
+
+Availability: Actively seeking junior developer roles, collaborative projects, and mentorship-driven teams
+
+🗣️ Languages
+English: Professional working proficiency
+
+isiZulu: Native or bilingual proficiency
+
+
+
+
+
+🧠 Technical Skills & Stack
+
+🧰 Core Development Stack
+🔹 Frontend
+React (including React hooks and context)
+
+TypeScript
+
+Vite (for fast frontend builds)
+
+TailwindCSS (utility-first styling)
+
+Bootstrap 4 (used in earlier coursework)
+
+HTML/CSS
+
+
+🔹 Backend
+Django
+
+Django REST Framework
+
+Node.js (basic familiarity)
+
+Express.js (from HKUST coursework)
+
+
+🔹 Databases
+PostgreS.Q.L
+
+S.Q.Lite
+
+MongoDB (introductory level)
+
+
+🔹 Dev Tools & Platforms
+Git & GitHub
+
+VS Code
+
+GitHub Pages
+
+PayFast API (currently integrating for Furniverse)
+
+npm & Node.js runtime
+
+RESTful API design and consumption
+
+
+
+🤖 AI Tools & Integrations
+Sandile actively uses AI-powered tools to enhance productivity, streamline development, and improve user experience:
+
+Microsoft Copilot: For code suggestions, documentation scaffolding, and architectural guidance
+
+GitHub Copilot: For intelligent code completion, debugging support, and rapid prototyping
+
+ElevenLabs: For voice synthesis and agent persona development, especially in voice-enabled portfolio projects
+
+These tools support his iterative workflow and help him deliver polished, scalable solutions faster.
+
+
+🎨 Design Philosophy
+Sandile’s (pronounced as "Sahndeeleh") approach to development is:
+
+Mobile-first: Prioritizes responsive layouts and usability on small screens
+
+Modular: Builds reusable components and scalable backend endpoints
+
+Clean architecture: Emphasizes separation of concerns and maintainable code
+
+Culturally grounded: Designs interfaces and flows that resonate with South African users
+
+Real-world usability: Focuses on intuitive navigation, clear data flows, and practical debugging
+
+
+
+🧪 Testing & Debugging
+Sandile is familiar with iterative debugging across frontend and backend environments. He has experience resolving:
+
+CORS issues
+
+Schema drift
+
+Payment integration bugs
+
+UI responsiveness challenges
+
+
+
+📚 Learning History
+FNB App Academy (2025): Bootcamp covering frontend, backend, UX, and business fundamentals
+
+HKUST Specialization (2021): Full Stack Web Development with React, MongoDB, Node.js, Express
+
+University of Zululand: BSc in Computer Science and Physics — foundational computing and scientific reasoning
+
+
+
+🏗️ Projects: 
+🔹 Furniverse (In Progress)
+Client-facing mobile-first e-commerce platform for furniture
+
+Furniverse is a culturally resonant furniture marketplace built for a client. 
+It showcases Sandile’s full stack development skills while delivering a smooth shopping experience 
+tailored to real-world users.
+
+Frontend: React + Vite, TypeScript, TailwindCSS, shad.c.n/u.i
+
+Backend: Django, Django REST Framework
+
+Database: Postgre S.Q.L
+
+Features:
+
+    Mobile-first responsive design
+
+    Product catalog with categories, images, and pricing
+
+    Authentication (login, register, protected routes)
+
+    Cart and checkout flows
+
+    PayFast payment integration (in progress)
+
+Design Philosophy: Modular architecture, clean data flows, culturally grounded UI
+
+Status: Actively developing and refining backend endpoints
+
+GitHub link: https://github.com/Sandilem7789/furniverse-soul-cyber
+
+
+🔹 GardenLink (Hackathon Project)
+Community-driven platform connecting growers and buyers
+
+Built independently during the FNB App of the Year Hackathon, GardenLink is designed to support small-scale commerce in rural communities.
+
+Stack: Django, Django REST Framework
+
+Purpose: Improve transparency and access in local food systems
+
+Features:
+
+Grower profiles and product listings
+
+Buyer discovery and contact flows
+
+RESTful API structure
+
+Impact: Reflects Sandile’s commitment to community relevance and real-world usability
+
+Status: Completed prototype
+
+GitHub link: https://github.com/Sandilem7789/FNBAOTYHackathon
+
+
+🔹 furniverse-soul-cyber-backend
+Modular backend API for Furniverse
+
+This repo powers Furniverse’s backend logic and data flow. It’s structured for scalability and clean separation of concerns.
+
+Stack: Django REST Framework
+
+Features:
+
+User authentication and session management
+
+Cart logic and product endpoints
+
+Payment routing (PayFast integration)
+
+Design Focus: RESTful architecture, modular views, secure data handling
+
+Status: Actively maintained alongside Furniverse frontend
+
+GitHub Link: https://github.com/Sandilem7789/furniverse-soul-cyber-backend
+
+
+🔹 Personal Portfolio Site
+Static site introducing Sandile’s work and interests
+
+Stack: HTML, CSS
+
+Hosted on: GitHub Pages
+
+Purpose: Serve as a digital introduction to Sandile’s professional journey
+
+Design: Clean, minimal, mobile-friendly
+
+Status: Live and public
+
+GitHub: https://github.com/Sandilem7789/SandilePortfolio
+
+
+💼 Professional Experience:
+🔹 Independent Developer & Content Creator (2025–Present)
+Sandile works independently as a full stack developer, building client-facing platforms and refining his technical portfolio. 
+
+His current focus includes:
+    Developing Furniverse, a mobile-first e-commerce platform for a furniture client
+
+    Designing and maintaining backend APIs using Django REST Framework
+
+    Creating frontend interfaces with React, TypeScript, and TailwindCSS
+
+    Debugging payment integrations (e.g., PayFast)
+
+    haring coding tutorials on TikTok to support beginner developers
+
+    Skills Applied: Full stack architecture, client communication, iterative debugging, content creation, and technical education
+
+
+
+🔹 Facilitator – Hustle Economy Programme (2022–2024)
+Sandile served as a community-based facilitator for the Hustle Economy programme, 
+a Wild Impact initiative focused on enterprise development in rural Maputaland Region, KwaZulu Natal, South Africa. 
+He supported emerging micro-entrepreneurs through structured workshops and peer-based mentorship.
+
+Responsibilities:
+
+    Recruited and guided groups of ~30 aspiring entrepreneurs
+
+    Delivered 10-week capacity-building workshops covering:
+
+    Financial literacy
+
+    Business skills
+
+    Sustainable development
+
+    Social and environmental awareness
+
+    Facilitated peer review and refinement of business ideas
+
+    Tracked participant progress and supported access to funding credits
+
+    Promoted community service and social cohesion through volunteer initiatives
+
+Tech-Relevant Skills:
+
+Workshop design and facilitation
+
+Translating complex concepts into accessible learning
+
+Mentorship and UX empathy
+
+Data tracking and impact reporting
+
+Community-centered design thinking
+
+
+🔹 KYC Analyst Trainee – Khonology (2017)
+Sandile trained in compliance protocols including AML, CDD, and FATCA. 
+He worked with sensitive data and developed a strong attention to detail.
+
+    Tech-Relevant Skills:
+
+    Data integrity and validation
+
+    Secure handling of user information
+
+    Backend logic for user verification and access control
+
+
+🔹 Examination Assistant – KZN Department of Education (2014–2015)
+In this part-time role, Sandile supported the processing of matric exam materials. He managed logistics and handled confidential data under pressure.
+
+Tech-Relevant Skills:
+
+Organizational precision
+
+Data handling and record management
+
+Workflow coordination — applicable to backend systems and admin dashboards
+
+
+🧠 Summary of Transferable Strengths
+Communication: Able to explain complex systems simply and clearly
+
+Data Handling: Experienced in managing sensitive information securely
+
+Mentorship & Facilitation: Skilled in guiding learners and users through digital tools
+
+Problem Solving: Applies structured thinking across technical and operational challenges
+
+Community Engagement: Designs with empathy and local relevance
+
+
+🧑‍🏫 Content Creation & Community Engagement:
+🎥 TikTok Tutorials & Educational Content
+Sandile creates short-form coding tutorials on TikTok, aimed at helping beginner developers understand foundational web concepts. His content is:
+
+Accessible: Uses plain language and relatable examples
+
+Visual: Demonstrates HTML, CSS, and JavaScript in action
+
+Empowering: Encourages learners from underrepresented communities to explore tech
+
+Culturally grounded: Reflects South African contexts and user realities
+
+Topics Covered:
+
+HTML structure and tags
+
+CSS styling and layout
+
+JavaScript basics and DOM manipulation
+
+Debugging tips and developer mindset
+
+
+🧑‍🤝‍🧑 Community Facilitation – Hustle Economy Programme
+As a facilitator for the Hustle Economy programme, Sandile supported micro-entrepreneurs in rural South Africa through:
+
+10-week workshops on financial literacy, business skills, and sustainability
+
+Peer-based mentorship and idea refinement
+
+Volunteer-driven community service initiatives
+
+Tracking and reporting impact metrics (e.g., workshop attendance, credit conversion)
+
+Impact Highlights:
+
+Supported youth and female entrepreneurs
+
+Helped participants increase profitability and business confidence
+
+Fostered social cohesion through hustle networks
+
+🌍 Community-Centered Design
+Sandile’s development work is deeply informed by his community engagement:
+
+Designs interfaces that are intuitive for low-tech users
+
+Builds platforms that reflect local commerce and storytelling
+
+Prioritizes accessibility, clarity, and cultural resonance in UI/UX decisions
+
+🧠 Mentorship & Knowledge Sharing
+Offers guidance to new coders through direct messages and comment threads
+
+Breaks down complex technical concepts into digestible learning moments
+
+Encourages curiosity, experimentation, and self-directed learning
+
+💬 Communication Style
+Calm, clear, and intentional
+
+Adapts language to match user’s technical level
+
+Blends storytelling with technical insight
+
+Avoids jargon unless contextually appropriate
+
+
+🎯 Career Goals & Preferences: 
+🥅 Short-Term Goals
+Deliver Furniverse as a robust, client-ready e-commerce platform with full PayFast integration
+
+Refine PortfolioAgent’s branding and persona to represent Sandile’s professional journey with clarity and cultural resonance
+
+Curate and expand technical knowledge bases to support voice-powered agents and developer education
+
+Continue creating accessible coding content for beginner developers on platforms like TikTok
+
+
+🛤️ Long-Term Goals
+Secure a full-time tech role that values clean architecture, community relevance, and iterative problem solving
+
+Join a team that supports mentorship, collaboration, and continuous learning
+
+Expand GitHub portfolio with production-ready, collaborative projects
+
+Build platforms that empower local businesses, educators, and emerging developers
+
+Contribute to open-source or civic tech initiatives that reflect African user contexts
+
+💼 Role Preferences
+Position Type: Junior Developer, Full Stack Developer, Technical Educator, or Developer Advocate
+
+Work Environment: Onsite, Remote-friendly or hybrid setups with clear communication and mentorship culture
+
+Team Culture: Inclusive, collaborative, and mission-driven
+
+Industries of Interest:
+
+Education technology
+
+E-commerce
+
+Community platforms
+
+Developer tooling
+
+Social impact tech
+
+🌍 Location & Availability
+Location: Based in Mkuze, KwaZulu-Natal, South Africa
+
+Availability: Open to remote work and relocation within South Africa
+
+Work Status: Actively seeking employment and open to freelance or contract opportunities
+
+🧠 Work Style & Strengths
+Intentional Builder: Designs with clarity, purpose, and user empathy
+
+Narrative Thinker: Communicates technical decisions through storytelling
+
+Detail-Oriented Debugger: Tackles real-world bugs with structured problem solving
+
+Community Connector: Builds tools that reflect and uplift local user needs
+
+Self-Directed Learner: Continuously upskills through hands-on projects and formal training
+
+

@@ -1,0 +1,92 @@
+💼 Professional Experience: Sandile Mathenjwa
+🔹 Independent Developer & Content Creator (2025–Present)
+Sandile works independently as a full stack developer, building client-facing platforms and refining his technical portfolio. 
+
+His current focus includes:
+    Developing Furniverse, a mobile-first e-commerce platform for a furniture client
+
+    Designing and maintaining backend APIs using Django REST Framework
+
+    Creating frontend interfaces with React, TypeScript, and TailwindCSS
+
+    Debugging payment integrations (e.g., PayFast)
+
+    haring coding tutorials on TikTok to support beginner developers
+
+    Skills Applied: Full stack architecture, client communication, iterative debugging, content creation, and technical education
+
+
+
+🔹 Facilitator – Hustle Economy Programme (2022–2024)
+Sandile served as a community-based facilitator for the Hustle Economy programme, 
+a Wild Impact initiative focused on enterprise development in rural Maputaland Region, KwaZulu Natal, South Africa. 
+He supported emerging micro-entrepreneurs through structured workshops and peer-based mentorship.
+
+Responsibilities:
+
+    Recruited and guided groups of ~30 aspiring entrepreneurs
+
+    Delivered 10-week capacity-building workshops covering:
+
+    Financial literacy
+
+    Business skills
+
+    Sustainable development
+
+    Social and environmental awareness
+
+    Facilitated peer review and refinement of business ideas
+
+    Tracked participant progress and supported access to funding credits
+
+    Promoted community service and social cohesion through volunteer initiatives
+
+Tech-Relevant Skills:
+
+Workshop design and facilitation
+
+Translating complex concepts into accessible learning
+
+Mentorship and UX empathy
+
+Data tracking and impact reporting
+
+Community-centered design thinking
+
+
+🔹 KYC Analyst Trainee – Khonology (2017)
+Sandile trained in compliance protocols including AML, CDD, and FATCA. 
+He worked with sensitive data and developed a strong attention to detail.
+
+    Tech-Relevant Skills:
+
+    Data integrity and validation
+
+    Secure handling of user information
+
+    Backend logic for user verification and access control
+
+
+🔹 Examination Assistant – KZN Department of Education (2014–2015)
+In this part-time role, Sandile supported the processing of matric exam materials. He managed logistics and handled confidential data under pressure.
+
+Tech-Relevant Skills:
+
+Organizational precision
+
+Data handling and record management
+
+Workflow coordination — applicable to backend systems and admin dashboards
+
+
+🧠 Summary of Transferable Strengths
+Communication: Able to explain complex systems simply and clearly
+
+Data Handling: Experienced in managing sensitive information securely
+
+Mentorship & Facilitation: Skilled in guiding learners and users through digital tools
+
+Problem Solving: Applies structured thinking across technical and operational challenges
+
+Community Engagement: Designs with empathy and local relevance

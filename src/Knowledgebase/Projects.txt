@@ -1,0 +1,93 @@
+🏗️ Projects: Sandile Mathenjwa
+🔹 Furniverse (In Progress)
+Client-facing mobile-first e-commerce platform for furniture
+
+Furniverse is a culturally resonant furniture marketplace built for a client. 
+It showcases Sandile’s full stack development skills while delivering a smooth shopping experience 
+tailored to real-world users.
+
+Frontend: React + Vite, TypeScript, TailwindCSS, shadcn/ui
+
+Backend: Django, Django REST Framework
+
+Database: PostgreSQL
+
+Features:
+
+    Mobile-first responsive design
+
+    Product catalog with categories, images, and pricing
+
+    Authentication (login, register, protected routes)
+
+    Cart and checkout flows
+
+    PayFast payment integration (in progress)
+
+Design Philosophy: Modular architecture, clean data flows, culturally grounded UI
+
+Status: Actively developing and refining backend endpoints
+
+GitHub link: https://github.com/Sandilem7789/furniverse-soul-cyber
+
+
+🔹 GardenLink (Hackathon Project)
+Community-driven platform connecting growers and buyers
+
+Built independently during the FNB App of the Year Hackathon, GardenLink is designed to support small-scale commerce in rural communities.
+
+Stack: Django, Django REST Framework
+
+Purpose: Improve transparency and access in local food systems
+
+Features:
+
+Grower profiles and product listings
+
+Buyer discovery and contact flows
+
+RESTful API structure
+
+Impact: Reflects Sandile’s commitment to community relevance and real-world usability
+
+Status: Completed prototype
+
+GitHub link: https://github.com/Sandilem7789/FNBAOTYHackathon
+
+
+🔹 furniverse-soul-cyber-backend
+Modular backend API for Furniverse
+
+This repo powers Furniverse’s backend logic and data flow. It’s structured for scalability and clean separation of concerns.
+
+Stack: Django REST Framework
+
+Features:
+
+User authentication and session management
+
+Cart logic and product endpoints
+
+Payment routing (PayFast integration)
+
+Design Focus: RESTful architecture, modular views, secure data handling
+
+Status: Actively maintained alongside Furniverse frontend
+
+GitHub Link: https://github.com/Sandilem7789/furniverse-soul-cyber-backend
+
+
+🔹 Personal Portfolio Site
+Static site introducing Sandile’s work and interests
+
+Stack: HTML, CSS
+
+Hosted on: GitHub Pages
+
+Purpose: Serve as a digital introduction to Sandile’s professional journey
+
+Design: Clean, minimal, mobile-friendly
+
+Status: Live and public
+
+GitHub: https://github.com/Sandilem7789/SandilePortfolio

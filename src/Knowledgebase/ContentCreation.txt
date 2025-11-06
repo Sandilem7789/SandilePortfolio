@@ -1,0 +1,66 @@
+🧑‍🏫 Content Creation & Community Engagement: Sandile Mathenjwa
+🎥 TikTok Tutorials & Educational Content
+Sandile creates short-form coding tutorials on TikTok, aimed at helping beginner developers understand foundational web concepts. His content is:
+
+Accessible: Uses plain language and relatable examples
+
+Visual: Demonstrates HTML, CSS, and JavaScript in action
+
+Empowering: Encourages learners from underrepresented communities to explore tech
+
+Culturally grounded: Reflects South African contexts and user realities
+
+Topics Covered:
+
+HTML structure and tags
+
+CSS styling and layout
+
+JavaScript basics and DOM manipulation
+
+Debugging tips and developer mindset
+
+
+🧑‍🤝‍🧑 Community Facilitation – Hustle Economy Programme
+As a facilitator for the Hustle Economy programme, Sandile supported micro-entrepreneurs in rural South Africa through:
+
+10-week workshops on financial literacy, business skills, and sustainability
+
+Peer-based mentorship and idea refinement
+
+Volunteer-driven community service initiatives
+
+Tracking and reporting impact metrics (e.g., workshop attendance, credit conversion)
+
+Impact Highlights:
+
+Supported youth and female entrepreneurs
+
+Helped participants increase profitability and business confidence
+
+Fostered social cohesion through hustle networks
+
+🌍 Community-Centered Design
+Sandile’s development work is deeply informed by his community engagement:
+
+Designs interfaces that are intuitive for low-tech users
+
+Builds platforms that reflect local commerce and storytelling
+
+Prioritizes accessibility, clarity, and cultural resonance in UI/UX decisions
+
+🧠 Mentorship & Knowledge Sharing
+Offers guidance to new coders through direct messages and comment threads
+
+Breaks down complex technical concepts into digestible learning moments
+
+Encourages curiosity, experimentation, and self-directed learning
+
+💬 Communication Style
+Calm, clear, and intentional
+
+Adapts language to match user’s technical level
+
+Blends storytelling with technical insight
+
+Avoids jargon unless contextually appropriate

@@ -1,24 +1,25 @@
+// main.ts
 import './style.css'
-import typescriptLogo from './typescript.svg'
-import viteLogo from '/vite.svg'
-import { setupCounter } from './counter.ts'
 
-document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
-  <div>
-    <a href="https://vite.dev" target="_blank">
-      <img src="${viteLogo}" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="${typescriptLogo}" class="logo vanilla" alt="TypeScript logo" />
-    </a>
-    <h1>Vite + TypeScript</h1>
-    <div class="card">
-      <button id="counter" type="button"></button>
-    </div>
-    <p class="read-the-docs">
-      Click on the Vite and TypeScript logos to learn more
-    </p>
-  </div>
-`
 
-setupCounter(document.querySelector<HTMLButtonElement>('#counter')!)
+const agentId = import.meta.env.VITE_AGENT_ID;
+const container = document.getElementById("agent-widget");
+
+if (container && agentId) {
+  container.innerHTML = `
+    <elevenlabs-convai agent-id="${agentId}"></elevenlabs-convai>
+    <script src="https://unpkg.com/@elevenlabs/convai-widget-embed" async type="text/javascript"></script>
+  `;
+}
+
+
+
+// Optional: log when the page is ready
+window.addEventListener('DOMContentLoaded', () => {
+  console.log('Sandile Portfolio Agent loaded.')
+
+  // You can add custom logic here later, like:
+  // - Tracking agent interactions
+  // - Animating intro text
+  // - Handling fallback behavior
+})
